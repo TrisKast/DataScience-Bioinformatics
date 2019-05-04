@@ -1,4 +1,4 @@
-# About this project
+# Integrated Bioinformatics
 
 Many biological research questions are centered around trying to understand how small changes in the organisms genome and environment can result in major changes in the cellular and organismal phenotype. Examples for such changes in phenotype can be different body height/weight, pathogenisis, or altered metabolic rates. To gain insights into the mechanism regulating how an organism functions, ideally the full underlying biological system needs to be understood and modeled. To do so, available measurements of the different layers in the central dogma (transcription, translation) and further cellular function (metabolism) have to be integrated.
 
